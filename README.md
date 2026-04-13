@@ -98,6 +98,14 @@ python main.py
 
 ---
 
+##  Screenshots
+
+<img width="658" height="639" alt="Screenshot 2026-04-13 195232" src="https://github.com/user-attachments/assets/0584fb08-4235-4a59-8190-f496c6e32b2a" />
+<img width="659" height="647" alt="image" src="https://github.com/user-attachments/assets/2c4458df-dd05-4ecc-b405-93e12c14d933" />
+<img width="665" height="651" alt="image" src="https://github.com/user-attachments/assets/0abe4621-c9c7-40fa-a047-f9934aa239e9" />
+
+---
+
 ##  Notes
 
 * Model files may not be included due to size limitations
