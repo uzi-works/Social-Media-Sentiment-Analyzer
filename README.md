@@ -1,18 +1,18 @@
-# 📊 Social Media Sentiment Analyzer
+#  Social Media Sentiment Analyzer
 
-## 📌 Overview
+##  Overview
 
 The Social Media Sentiment Analyzer is an AI-based application that analyzes user-generated text data and classifies it into positive, negative, or neutral sentiments. The system uses Natural Language Processing (NLP) and Machine Learning techniques to understand opinions and emotions expressed in text data.
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 With the rapid growth of social media platforms, analyzing public opinion manually has become inefficient. Businesses and organizations need automated systems to understand user sentiment and make data-driven decisions.
 
 ---
 
-## 💡 Solution
+##  Solution
 
 This project uses:
 
@@ -24,17 +24,17 @@ to automatically classify text into sentiment categories.
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
-* 📝 Text-based sentiment classification
-* 😊 Detects positive, negative, and neutral sentiments
-* ⚡ Fast and efficient processing
-* 📊 Supports large datasets
-* 🔍 Data preprocessing and cleaning pipeline
+*  Text-based sentiment classification
+*  Detects positive, negative, and neutral sentiments
+*  Fast and efficient processing
+*  Supports large datasets
+*  Data preprocessing and cleaning pipeline
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Programming Language:** Python
 * **Libraries:** Scikit-learn, Pandas, NumPy
@@ -43,7 +43,7 @@ to automatically classify text into sentiment categories.
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. Input text is provided by the user
 2. Text is preprocessed (cleaning, tokenization, stopword removal)
@@ -53,7 +53,7 @@ to automatically classify text into sentiment categories.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 sentiment-analysis/
 │
@@ -66,24 +66,24 @@ sentiment-analysis/
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
-### 1️⃣ Clone the repository
+### 1️ Clone the repository
 
-git clone https://github.com/yourusername/sentiment-analysis.git
+git clone https://github.com/uzi-works/sentiment-analysis.git
 cd sentiment-analysis
 
-### 2️⃣ Install dependencies
+### 2️ Install dependencies
 
 pip install -r requirements.txt
 
-### 3️⃣ Run the application
+### 3️ Run the application
 
 python main.py
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 * Contains social media text data
 * Used for training and testing sentiment classification
@@ -91,21 +91,21 @@ python main.py
 
 ---
 
-## 📈 Output
+##  Output
 
 * Predicted sentiment label
 * Clean and processed text output
 
 ---
 
-## ⚠️ Notes
+##  Notes
 
 * Model files may not be included due to size limitations
 * Ensure dataset is available before running
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Use deep learning models (LSTM, BERT)
 * Real-time Twitter/Instagram data integration
@@ -114,32 +114,27 @@ python main.py
 
 ---
 
-## 📸 Screenshots (Add Later)
 
-*Add output screenshots here*
-
----
-
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to fork and improve the project.
 
 ---
 
-## 📜 License
+##  License
 
 This project is open-source and available under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Uzair Sabir**
 B.Tech CSE | AI Enthusiast
 
 ---
 
-## ⭐ Acknowledgements
+##  Acknowledgements
 
 * Open-source NLP libraries
 * Public sentiment analysis datasets
