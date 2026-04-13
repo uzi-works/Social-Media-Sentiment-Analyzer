@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sentiment Analysis System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <div class="card">
+        <h1>🧠 Social Media Sentiment Analyzer</h1>
+        <p>Enter a review below and predict its sentiment</p>
+
+        <form action="/predict" method="post">
+            <textarea name="review" placeholder="Type your text here..." required></textarea>
+            <button type="submit">Analyze Sentiment</button>
+        </form>
+
+        {% if prediction_text %}
+            <div class="result">
+                {{ prediction_text }}
+            </div>
+        {% endif %}
+    </div>
+
+</body>
+</html>
