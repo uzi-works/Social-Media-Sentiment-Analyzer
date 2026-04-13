@@ -70,7 +70,7 @@ sentiment-analysis/
 
 ### 1️ Clone the repository
 
-git clone https://github.com/uzi-works/sentiment-analysis.git
+git clone https://github.com/uzi-works/Social-Media-Sentiment-Analyzer
 cd sentiment-analysis
 
 ### 2️ Install dependencies
